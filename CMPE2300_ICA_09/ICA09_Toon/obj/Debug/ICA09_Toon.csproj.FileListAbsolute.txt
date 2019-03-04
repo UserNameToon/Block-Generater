@@ -1,0 +1,61 @@
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.exe.config
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.exe
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.pdb
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.csprojResolveAssemblyReference.cache
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.UI_Form.resources
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.Properties.Resources.resources
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.csproj.GenerateResource.Cache
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.exe
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.pdb
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\bin\Debug\GDIDrawer.dll
+C:\Users\Toon\Desktop\personal program\ICA09_Toon\ICA09_Toon\bin\Debug\GDIDrawer.xml
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.exe.config
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.exe
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.pdb
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.exe
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.pdb
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\bin\Debug\GDIDrawer.xml
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.csprojResolveAssemblyReference.cache
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.UI_Form.resources
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.Properties.Resources.resources
+C:\Users\cchaichanathong1\Desktop\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.csproj.GenerateResource.Cache
+F:\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.exe.config
+F:\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.exe
+F:\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.pdb
+F:\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.exe
+F:\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.pdb
+F:\ICA09_Toon\ICA09_Toon\bin\Debug\GDIDrawer.xml
+F:\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.csprojResolveAssemblyReference.cache
+F:\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.UI_Form.resources
+F:\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.Properties.Resources.resources
+F:\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.csproj.GenerateResource.Cache
+C:\Users\Toon\Desktop\school\CMPE2300\ICA09_Toon\ICA09_Toon\bin\Debug\ICA09_Toon.exe.config
+C:\Users\Toon\Desktop\school\CMPE2300\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.exe
+C:\Users\Toon\Desktop\school\CMPE2300\ICA09_Toon\ICA09_Toon\obj\Debug\ICA09_Toon.pdb
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\ICA09_Toon.exe.config
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.exe
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.pdb
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\ICA09_Toon.exe.config
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.exe
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.pdb
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\ICA09_Toon.exe
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\ICA09_Toon.pdb
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\GDIDrawer.dll
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\GDIDrawer.xml
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.csprojResolveAssemblyReference.cache
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.UI_Form.resources
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.Properties.Resources.resources
+E:\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.csproj.GenerateResource.Cache
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\ICA09_Toon.exe.config
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\ICA09_Toon.exe
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\ICA09_Toon.pdb
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\GDIDrawer.dll
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\bin\Debug\GDIDrawer.xml
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.csprojAssemblyReference.cache
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.UI_Form.resources
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.Properties.Resources.resources
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.csproj.GenerateResource.cache
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.csproj.CoreCompileInputs.cache
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.csproj.CopyComplete
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.exe
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_09\ICA09_Toon\obj\Debug\ICA09_Toon.pdb
