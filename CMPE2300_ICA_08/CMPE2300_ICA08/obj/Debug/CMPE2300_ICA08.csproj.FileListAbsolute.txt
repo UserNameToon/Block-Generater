@@ -1,0 +1,46 @@
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.exe.config
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csprojResolveAssemblyReference.cache
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.UI_Form.resources
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.Properties.Resources.resources
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csproj.GenerateResource.Cache
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.exe
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.pdb
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\GDIDrawer.dll
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\GDIDrawer.xml
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.exe
+C:\Users\cchaichanathong1\Desktop\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.pdb
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.exe.config
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.exe
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.pdb
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.exe
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.pdb
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\GDIDrawer.xml
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csprojResolveAssemblyReference.cache
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.UI_Form.resources
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.Properties.Resources.resources
+C:\Users\Toon\Desktop\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csproj.GenerateResource.Cache
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.exe.config
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.exe
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.pdb
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.exe.config
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.exe
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.pdb
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.exe
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.pdb
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\bin\Debug\GDIDrawer.xml
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csprojResolveAssemblyReference.cache
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.UI_Form.resources
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.Properties.Resources.resources
+C:\Users\Toon\Desktop\school\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csproj.GenerateResource.Cache
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.exe.config
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.exe
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\bin\Debug\CMPE2300_ICA08.pdb
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\bin\Debug\GDIDrawer.xml
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csprojAssemblyReference.cache
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.UI_Form.resources
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.Properties.Resources.resources
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csproj.GenerateResource.cache
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csproj.CoreCompileInputs.cache
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.csproj.CopyComplete
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.exe
+C:\Users\Toon\Desktop\promgrams nait\old stuff\old\CMPE2300\CMPE2300_ICA_08\CMPE2300_ICA08\obj\Debug\CMPE2300_ICA08.pdb
